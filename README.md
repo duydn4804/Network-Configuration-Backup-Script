@@ -1,6 +1,6 @@
 # Network Configuration Backup Script
 
-This is a Python script using the Netmiko library to automatically Telnet into Cisco IOS network devices and back up their running-config.
+This is a Python script using the Netmiko library to automatically SSH into Cisco IOS network devices and back up their running-config.
 
 ## Lab Environment
 
